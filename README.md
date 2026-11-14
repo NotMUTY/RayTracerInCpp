@@ -3,7 +3,7 @@
 
 A zero-dependency CPU ray tracer written from scratch in C++ using raw Win32 API. No OpenGL, no Vulkan, no third-party math libraries—just raw pointer math, quaternion rotations, and pixels pushed directly to a Windows bitmap.
 
-![Render Preview](screenshot.png)
+![Render Preview](IMG_20261114_083925.jpg)
 
 ## Requirements
 * A computer that works and runs Windows
