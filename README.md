@@ -43,4 +43,4 @@ Basically, it shoots rays from the camera through the viewplane into infinity. I
 * **Config:** Want to change resolution, thread count, or settings without breaking the engine? `settings.h` got your back.
 * **Spawning:** Call `Object::CreateObj(position, rotation, scale, isActive, OBJEXTRAARGS...)` and it spawns.
 
-> **⚠️ HARD LIMIT:** Only **128 objects** are allowed in the world at the same time! Camera and Sun live in the same object array, so you practically get **126** slots for your spheres.
+> **HARD LIMIT:** Only **128 objects** are allowed in the world at the same time! Camera and Sun live in the same object array, so you practically get **126** slots for your spheres.
